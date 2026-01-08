@@ -1,1 +1,11 @@
 # Datasets for Practice
+[AdventureWorks_Territories.csv](https://github.com/user-attachments/files/24487120/AdventureWorks_Territories.csv)
+[AdventureWorks_Sales_2017.csv](https://github.com/user-attachments/files/24487118/AdventureWorks_Sales_2017.csv)
+[AdventureWorks_Sales_2016.csv](https://github.com/user-attachments/files/24487117/AdventureWorks_Sales_2016.csv)
+[AdventureWorks_Sales_2015.csv](https://github.com/user-attachments/files/24487116/AdventureWorks_Sales_2015.csv)
+[AdventureWorks_Returns.csv](https://github.com/user-attachments/files/24487115/AdventureWorks_Returns.csv)
+[AdventureWorks_Products.csv](https://github.com/user-attachments/files/24487113/AdventureWorks_Products.csv)
+[AdventureWorks_Product_Subcategories.csv](https://github.com/user-attachments/files/24487111/AdventureWorks_Product_Subcategories.csv)
+[AdventureWorks_Product_Categories.csv](https://github.com/user-attachments/files/24487110/AdventureWorks_Product_Categories.csv)
+[AdventureWorks_Customers.csv](https://github.com/user-attachments/files/24487104/AdventureWorks_Customers.csv)
+[AdventureWorks_Calendar.csv](https://github.com/user-attachments/files/24487103/AdventureWorks_Calendar.csv)
